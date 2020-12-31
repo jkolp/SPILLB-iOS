@@ -29,6 +29,10 @@ For the presentation of the app in use, please see the following link
 https://youtu.be/vuVWUoh0cxM
 
 
+## Requirements To Run The Program
+* Install voxeetSDK from cocoapods
+* All other required pods have been included in the app.
+
 ![lobby](Documentation/lobby.png)
 ![in-session](Documentation/in-session.png)
 
