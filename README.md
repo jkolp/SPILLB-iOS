@@ -29,6 +29,6 @@ For the presentation of the app in use, please see the following link
 https://youtu.be/vuVWUoh0cxM
 
 
-![lobby](Documentation/lobby)
-![in-session](Documentation/in-session)
+![lobby](Documentation/lobby.png)
+![in-session](Documentation/in-session.png)
 
