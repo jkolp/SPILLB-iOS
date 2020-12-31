@@ -1,4 +1,5 @@
-![logo](Documentation/logo.png) # SPILLB - Spill Your Bars
+![logo](Documentation/logo.png) 
+# SPILLB - Spill Your Bars
 
 A platform where users can have a  session of freestyle rapping with other users.
 Features:
